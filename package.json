@@ -1,7 +1,7 @@
 {
-  "name": "tem",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "template",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/507228905/template.git"
   },
-  "author": "huazai",
+  "author": "{{author}}",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/507228905/template/issues"
